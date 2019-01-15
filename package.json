@@ -1,0 +1,14 @@
+{
+  "name": "ztm-course-npm-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
